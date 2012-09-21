@@ -28,3 +28,8 @@ contoh
 --git add -A (-A nya beluim tw apaan)
 --git commit -m "pesan anda"
 --git push
+
+<br><br><br><br>
+
+tambahan ref : 
+http://gitref.org/basic/#add
